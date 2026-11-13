@@ -13,9 +13,9 @@
     "require": {
         "php": "^7.4 | ^8.0",
         "commerceguys/addressing": "^2",
-        "doctrine/orm": "^2.6",
-        "symfony/form": "^4.4 | ^5.3 | ^6.0",
-        "symfony/framework-bundle": "^4.4 | ^5.3 | ^6.0"
+        "doctrine/orm": "^3.0",
+        "symfony/form": "^4.4 | ^5.3 | ^6.0 | ^7.0",
+        "symfony/framework-bundle": "^4.4 | ^5.3 | ^6.0 | ^7.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.0",
